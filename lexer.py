@@ -1,4 +1,4 @@
-import sys
+import sys 
 from typing import Generator, Tuple
 import re
 
