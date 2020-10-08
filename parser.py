@@ -1,5 +1,5 @@
 from lexer import Lexer
-from ast import *
+from ast import * 
 
 
 class Parser:
