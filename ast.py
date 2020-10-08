@@ -1,7 +1,7 @@
 """
 SLU-C Abstract Syntax Trees
 An abstract syntax tree (AST) is a data structure that represents the
-concrete (text)
+concrete (text) 
 """
 from typing import Sequence, List, Union, Optional, Dict
 import operator
